@@ -2,4 +2,4 @@ Upskilling
 Completed CAF Test
 Completed Certification on AZ-900
 Leraned and worked on Azure services like- Azure app service,Eventhub,Azurefunctions,CosmosDB,azure sql database.
-Git hub link for AZ-900 certification- 
+Git hub link for AZ-900 certification- https://github.com/AsifShaikh18/Azure-Certifications/blob/main/AZ-900%20(Certificate).pdf
